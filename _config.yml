@@ -18,7 +18,7 @@ tagline: FCDS
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
 baseurl: '/11637' # the subpath of your site, e.g. /blog
-url: 'https://mcds-cmu.github.io/11637' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://mcds-cmu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
