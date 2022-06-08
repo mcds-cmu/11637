@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+description: >-
+    Schedule for 11637 -  Foundations of Computational Data Science.
 ---
 
-# Weekly Schedule
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+# Schedule
