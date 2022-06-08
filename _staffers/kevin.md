@@ -1,6 +1,6 @@
 ---
 name: Kevin Lin
-role: Instructor
+role: IInstructor
 email: me@example.com
 website: https://kevinl.info
 photo: kevin.jpg
