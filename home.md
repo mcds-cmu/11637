@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+permalink: index.html
 description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
 ---
