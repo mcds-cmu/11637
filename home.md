@@ -9,10 +9,13 @@ description: >-
 
 ## 1. Overview
 
-Title: Foundations of Computational Data Science
-Units: 11-637 is 12 units.
-Pre-requisites: Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
-Course Format: Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to start of the course)
+**Title:** Foundations of Computational Data Science
+
+**Units:** 11-637 is 12 units.
+
+**Pre-requisites:** Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
+
+**Course Format:** Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to start of the course)
 
 ## 2. Course Description
 This course provides an introduction to foundational concepts, learning material, and projects related to the three core areas of Data Science: Computing Systems, Analytics, and Human-Centered Data Science. Students completing this class will be prepared for further graduate education in Data Science and/or Artificial Intelligence. Students acquire skills in solution design (e.g., architecture, framework APIs, cloud computing), analytic algorithms (e.g., classification, clustering, ranking, prediction), interactive analysis (Jupyter Notebook), and visualization techniques for data analysis, solution optimization, and performance measurement on real-world tasks.
