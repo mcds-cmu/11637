@@ -16,7 +16,7 @@
 title: 11637 - FCDS
 tagline: FCDS
 description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+author: Ashwin Saval (asaval)
 baseurl: '/11637' # the subpath of your site, e.g. /blog
 url: 'https://mcds-cmu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
