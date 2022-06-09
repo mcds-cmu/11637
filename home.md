@@ -52,6 +52,7 @@ Through this process, we aspire for our students to become independent and resil
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ### Teaching Assistants
+{% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
