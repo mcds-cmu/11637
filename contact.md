@@ -8,4 +8,10 @@ description: >-
 
 # Contact Us
 
+For incoming, interested students or general public (email or form)
+
+For enrolled students, please contact us via Piazza.
+
+Leave us feedback (fill out form)
+
 {% include staff.md %}

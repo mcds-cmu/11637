@@ -1,5 +1,7 @@
 ---
 name: Arav Aggarwal
-role: Lead Teaching Assistant
+role: Teaching Assistant
 email: arava@andrew.cmu.edu
+list_order: 0
 ---
+Lead Teaching Assistant
