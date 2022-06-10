@@ -7,7 +7,7 @@ description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
 ---
 
-# Home - 11637 - Foundations of Computational Data Science
+# 11637 - Foundations of Computational Data Science
 
 ## 1. Overview
 
