@@ -3,7 +3,5 @@ name: Eric Nyberg
 role: Instructor
 email: ehn@cs.cmu.edu
 website: https://www.cs.cmu.edu/~ehn/
-# photo: kevin.jpg
+list_order: 1
 ---
-
-<!-- [Schedule an appointment](#){: .btn .btn-outline } -->

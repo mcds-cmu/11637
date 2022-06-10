@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Home
+nav_order: 1
 permalink: index.html
 description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
 ---
 
-# Home - 11637 - Foundations of Computational Data Science
+# 11637 - Foundations of Computational Data Science
 
 ## 1. Overview
 
@@ -33,19 +34,4 @@ Through this process, we aspire for our students to become independent and resil
 
 ## 4. Who We Are
 
-### Teaching Staff
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-### Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+{% include staff.md %}

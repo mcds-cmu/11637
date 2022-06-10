@@ -1,26 +1,17 @@
 ---
 layout: page
 title: Contact Us
+nav_order: 10
 description: >-
     Contact Information for 11637 -  Foundations of Computational Data Science.
 ---
 
 # Contact Us
 
-### Teaching Staff
+For incoming, interested students or general public (email or form)
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+For enrolled students, please contact us via Piazza.
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+Leave us feedback (fill out form)
 
-### Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+{% include staff.md %}

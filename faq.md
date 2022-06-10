@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+nav_order: 8
 description: FAQ for the 11637 course.
 ---
 
