@@ -1,6 +1,6 @@
 We urge each student to carefully read the [university policy on academic integrity](http://www.cmu.edu/policies/student-and-student-life/academic-integrity.html){:target="_blank"}, which outlines the policy on cheating, plagiarism, or unauthorized assistance. It is the responsibility of each student to produce her/his own original academic work. Collaboration or assistance on academic work to be graded is not permitted unless explicitly authorized by the course instructor. Each unit checkpoint quiz or project module submitted must be the sole work of the student turning it in. Student work on the cloud is logged, submitted work will be closely monitored by automatic cheat checkers, and students may be asked to explain any suspicious similarities with any piece of code available. The following are guidelines on what collaboration is authorized and what is not:
 
-## What is cheating?
+### What is cheating?
 
 1. Sharing code or other electronic files by either copying, retyping, looking at, or supplying a copy of any file. Copying any code from the internet (stackoverflow.com or GitHub or others). No code can be used to “test” the auto-grader.  Anything you submit to the auto-grader must be your code.
 
@@ -10,7 +10,7 @@ We urge each student to carefully read the [university policy on academic integr
 
 4. Sharing written work, looking at, copying, or supplying work from another individual, published or unpublished written sources, and electronic sources.
 
-## What is not cheating?
+### What is not cheating?
 
 1. Clarifying ambiguities or vague points in-class handouts.
 
