@@ -7,6 +7,10 @@ description: >-
 ---
 
 # Syllabus
+<!-- {: .no_toc }
+
+1. TOC
+{:toc} -->
 
 ## Overview
 
@@ -71,10 +75,6 @@ Students should regularly check OLI to see when new content or checkpoint quizze
 ## Conceptual Topics
 
 {% include syllabus/conceptual_topics.md %}
-
-## Projects
-
-{% include syllabus/projects.md %}
 
 ## Projects
 
