@@ -31,18 +31,20 @@ A: You’ll need to come to OH. We can discuss such stuff there.
 Q: Can we use some portion of the official docs for the library?
 {: .fw-700 }
 
-A: All official docs are fair game to students, and we expect you to use them as you work on the assignments. Please, however, add any references to the docs if they include more than 2-3 lines of sample code that you are pulling from. It helps us attribute your code to the right location.
+A: All official docs are fair game to students, and we **expect** you to use them as you work on the assignments. Please, however, add any references to the docs if they include more than 2-3 lines of sample code that you are pulling from. It helps us attribute your code to the right location.
 
 
 Q: Can we use ** such and such Medium article **? 
 {: .fw-700 }
 
-A: Here's where it depends, and you can always ask us on Piazza if you have any questions here. In general, the rule of thumb is that, if the page contains more than 2-3 lines of real code, I'd avoid it, as I can guarantee from personal experience the official docs, coupled with the primers, should be enough for most assignments. Note: You should always write your code from scratch in this course, copying as little code as possible. If you have general concept questions, say "why is this particular thing the way it is", these are wonderful Piazza questions! Please ask them, as we love to answer those questions!
+A: Here's where it depends, and you can always ask us on Piazza if you have any questions here. In general, the rule of thumb is that, if the page contains more than 2-3 lines of real code, I'd **avoid** it, as I can guarantee from personal experience **the official docs, coupled with the primers,** should be enough for most assignments.
+
+Note: **You should always write your code from scratch in this course, copying as little code as possible. If you have general concept questions,** say "why is this particular thing the way it is", these are wonderful Piazza questions! Please ask them, as we love to answer those questions!
 
 Q: I'm stuck on some error message. Can I cite the resource that helped me out of it? 
 {: .fw-700 }
 
-A: Yup! You're allowed to search error messages and use their results to help you out. However, like the above instance, you will need to cite any and all such resources of that type. We understand that using such resources is recommended for this approach, but we also would like to remind you to make it clear wherever you are taking this code from and to take the time to understand why it works, as that can be very important for future solutions. The projects on this course build on one another conceptually. Not understanding some tool will come back to haunt you later on.
+A: Yup! You're allowed to search error messages and use their results to help you out. **However, like the above instance, you will need to cite any and all such resources of that type.** We understand that using such resources is recommended for this approach, but we also would like to remind you to make it clear wherever you are taking this code from and to take the time to **understand why it works,** as that can be very important for future solutions. **The projects on this course build on one another conceptually. Not understanding some tool will come back to haunt you later on.**
  
 Q: What is checked for an AIV? 
 {: .fw-700 }
@@ -54,13 +56,13 @@ Q: Algorithms like BFS, DFS usually have a single type of implementation. If the
 
 A: In our experience, this is not the case. Given that we ask for variations on these algorithms, students tend to implement these variations rather differently. While the high-level idea might be the same, the exact lines of code you'll put in to solve that problem will be different enough for AIV purposes.
 
-Q: ​​Hi! I understand this question has been brought up earlier but I just want to double check. For instance, in part A of P2, I looked up the official document of pandas to find the right function to use, for instance, the conversion of timestamp. According to the @233, we shall include the document in the reference if we take more than 2-3 lines from the documentation. But in this project, I was basically just looking at the examples of functions and learn about their use, do I need to include the official doc in my reference in this case? Thank you!
+Q: ​​Hi! I understand this question has been brought up earlier but I just want to double check. For instance, in part A of P2, I looked up the official document of pandas to find the right function to use, for instance, the conversion of timestamp. According to the [@233](https://piazza.com/class/l2mo0c8m4475s7?cid=233), we shall include the document in the reference if we take more than 2-3 lines from the documentation. But in this project, I was basically just looking at the examples of functions and learn about their use, do I need to include the official doc in my reference in this case? Thank you!
 {: .fw-700 }
 
 A: Usually, unless you actually use more than 2-3 lines of the code from examples or illustrations of official documents, you do not need to cite them in references as you are expected to look up the definitions of APIs and functions using the official docs. 
 
-Q: ​​When I am working on Q10, I wanted to find a function that can do element wise outer product. I found this on stackOverflow( https://stackoverflow.com/questions/42378936/
-numpy-elementwise-outer-produc) and found that it can be done by broadcasting. Will using this trick (only one line of code) cause an AIV?
+Q: ​​When I am working on Q10, I wanted to find a function that can do element wise outer product. I found this on stackOverflow([https://stackoverflow.com/questions/42378936/
+numpy-elementwise-outer-produc](https://stackoverflow.com/questions/42378936/numpy-elementwise-outer-produc)) and found that it can be done by broadcasting. Will using this trick (only one line of code) cause an AIV?
 {: .fw-700 }
 
 A: If you put it in references and cite it accordingly you should be fine. We’re not interested in 1-2 lines of code like this.
@@ -81,7 +83,12 @@ Q: Hi was there ever a grade scale officially released for this course (the nume
 
 A: We don’t release one, namely as it depends on the distribution of grades in a single semester.
 
-Q: Hey as I see in the syllabus for this course , These are the only 2 requirements to get a pass grade for this subject : So does that mean that non of the quiz scores count for the grade? Also, the scores for the other projects (except 6/7) will not matter right. I do understand that the knowledge will be required anyways but just wanted to clarify the above requirements.
+Q: Hey as I see in the syllabus for this course , These are the only 2 requirements to get a pass grade for this subject : 
+{: .fw-700 }
+
+![P/NP Image]({{ site.baseurl }}{{ page.subpath }}/assets/images/p-np-image.png)
+
+So does that mean that non of the quiz scores count for the grade? Also, the scores for the other projects (except 6/7) will not matter right. I do understand that the knowledge will be required anyways but just wanted to clarify the above requirements.
 {: .fw-700 }
 
 
