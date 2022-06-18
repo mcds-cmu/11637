@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Academic Integrity Policies
+title: Academic Integrity
 nav_order: 6
 description: >-
     Academic Integrity Policies for 11637 -  Foundations of Computational Data Science.
 ---
 
-# Academic Integrity Policies
+# Academic Integrity
 
 {% include syllabus/cheating.md %}
 
