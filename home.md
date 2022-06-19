@@ -7,7 +7,7 @@ description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
 ---
 
-# 11637 - Foundations of Computational Data Science - Summer 2022
+# 11-637: Foundations of Computational Data Science - Summer 2022
 
 ## Overview
 
