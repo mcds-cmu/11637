@@ -20,10 +20,11 @@ author: Ashwin Saval (asaval)
 baseurl: '/11637' # the subpath of your site, e.g. /blog
 url: 'https://mcds-cmu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
+logo: "/assets/images/CMU_MCDS_logo_Parent_Horizontal_Full-Color_PMS1024_1.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
-color_scheme: light
+color_scheme: mcds
 search_enabled: true
 heading_anchors: true
 permalink: pretty
