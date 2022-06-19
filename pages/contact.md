@@ -8,7 +8,7 @@ description: >-
 
 # Contact Us
 
-<!-- If you are an incoming student or a student interested in taking the course, please email us at [Who We Are]({{ site.baseurl }}{{ page.subpath }}{% link home.md %}#who-we-are) -->
+<!-- If you are an incoming student or a student interested in taking the course, please email us at [Who We Are]({{ site.baseurl }}{{ page.subpath }}{% link pages/home.md %}#who-we-are) -->
 
 If you are an incoming student or a student interested in taking the course, please email us at
 
