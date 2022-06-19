@@ -4,26 +4,23 @@ title: Syllabus
 nav_order: 2
 description: >-
     Syllabus for 11637 -  Foundations of Computational Data Science.
+has_children: true
+has_toc: false
 ---
 
-# Syllabus
-<!-- {: .no_toc }
+# 11-637: Foundations of Computational Data Science - Syllabus
 
-1. TOC
-{:toc} -->
+The latest version of the syllabus is available on [Canvas](https://canvas.cmu.edu/courses/28890) for enrolled students.
 
 ## Overview
 
-Title: Foundations of Computational Data Science <br />
-Units: 11-637 is 12 units. <br />
-
-### Pre-requisites:
-
-Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
-
-### Course Format:
-
-Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to start of the course)
+**Title:** Foundations of Computational Data Science <br />
+**Units:** 11-637 is 12 units. <br />
+**Pre-requisites:**
+- Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
+- Understanding of basic statistics (descriptive statistics, hypothesis testing, measure of central tendency).
+- Understanding of basic linear algebra.<br />
+**Course Format:** Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to the start of the course)
 
 ## Course Description
 
@@ -37,7 +34,7 @@ Remote Asynchronous (1st meeting of the semester is a live session–details wil
 
 {% include syllabus/learning_outcomes.md %}
 
-## Course organization
+## Course Organization
 
 Your participation in the course will involve several forms of activity:
 
@@ -48,7 +45,7 @@ Your participation in the course will involve several forms of activity:
 
 Students should regularly check OLI to see when new content or checkpoint quizzes are made available. Projects and Checkpoint quizzes must be completed by the due dates posted on Sail() Platform.
 
-## Getting help
+## Getting Help
 
 {% include syllabus/getting_help.md %}
 

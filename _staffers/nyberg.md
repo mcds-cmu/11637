@@ -1,5 +1,5 @@
 ---
-name: Eric Nyberg
+name: Prof. Eric Nyberg
 role: Instructor
 email: ehn@cs.cmu.edu
 website: https://www.cs.cmu.edu/~ehn/

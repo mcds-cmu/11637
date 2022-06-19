@@ -2,12 +2,14 @@
 layout: page
 title: Home
 nav_order: 1
-permalink: index.html
 description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
+has_children: true
+has_toc: false
+permalink: index.html
 ---
 
-# 11637 - Foundations of Computational Data Science
+# 11-637: Foundations of Computational Data Science - Summer 2022
 
 ## Overview
 
