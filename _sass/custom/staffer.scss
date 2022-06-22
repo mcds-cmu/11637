@@ -1,3 +1,16 @@
+.staffer-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  .staffer {
+    @include mq(lg) {
+      flex-basis: 46%;
+      flex-shrink: 0;
+    }
+  }
+}
+
 .staffer {
   display: flex;
   margin: $sp-4;
