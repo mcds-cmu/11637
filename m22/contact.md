@@ -12,7 +12,12 @@ description: >-
 
 If you are an incoming student or a student interested in taking the course, please email us at
 
-{% include staff.md %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' | sort:"list_order" %}
+<div class="staffer-container">
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+</div>
 
 If you are currently enrolled in the course, please contact us via Piazza with your questions, concerns or feedback.
 
