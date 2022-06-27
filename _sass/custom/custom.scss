@@ -125,3 +125,24 @@ summary {
     height: 100%;
   }
 }
+
+/** SIDEBAR ADJUSTMENTS **/
+// Basically make the sidebar just like the md styles
+.side-bar {
+  @include mq(lg) {
+    width: $nav-width-md;
+  }
+}
+
+.main {
+  @include mq(lg) {
+    margin-left: $nav-width-md;
+    max-width: inherit;
+    
+    .main-content-wrap {
+      max-width: inherit;
+    }
+  }
+
+}
+/** END SIDEBAR ADJUSTMENTS **/
