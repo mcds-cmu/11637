@@ -8,4 +8,4 @@ description: >-
 
 # Schedule
 
-<iframe src="https://calendar.google.com/calendar/u/0/embed?src=c_rtohlf1capu05bn45raputolts@group.calendar.google.com&ctz=America/New_York" frameborder="0" style="height:500px;width:100%;"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&src=Y19ydG9obGYxY2FwdTA1Ym40NXJhcHV0b2x0c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23c2764f" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
