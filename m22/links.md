@@ -9,11 +9,12 @@ description: >-
 # Links
 ## Course links
 
-Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for 11-637<br />
+Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for 11-637 <br />
+Canvas (Summer 2022): [https://canvas.cmu.edu/courses/28890](https://canvas.cmu.edu/courses/28890) <br />
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />
 OLI: accessed through Canvas <br />
-Canvas (Summer 2022): [https://canvas.cmu.edu/courses/28890](https://canvas.cmu.edu/courses/28890)
+Gradescope: accessed through Canvas
 
 ## CMU links
 
@@ -23,4 +24,5 @@ Registrar's Office: [https://www.cmu.edu/hub/registrar/index.html](https://www.c
 Office of Disability Resources: [https://www.cmu.edu/disability-resources/](https://www.cmu.edu/disability-resources/) <br />
 Counseling and Psychological Services (CaPS): [https://www.cmu.edu/counseling/](https://www.cmu.edu/counseling/) <br />
 School of Computer Science: [https://www.cs.cmu.edu](https://www.cs.cmu.edu) <br />
-Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu)
+Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu) <br />
+Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu)
