@@ -10,7 +10,7 @@ has_toc: false
 
 # 11-637: Foundations of Computational Data Science - Syllabus
 
-The latest version of the syllabus is available on [Canvas](https://canvas.cmu.edu/courses/28890) for enrolled students.
+**The latest version of the syllabus is available on [Canvas](https://canvas.cmu.edu/courses/28890) for enrolled students.**
 
 ## Overview
 
@@ -20,6 +20,7 @@ The latest version of the syllabus is available on [Canvas](https://canvas.cmu.e
 - Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
 - Understanding of basic statistics (descriptive statistics, hypothesis testing, measure of central tendency).
 - Understanding of basic linear algebra.<br />
+
 **Course Format:** Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to the start of the course)
 
 ## Course Description
