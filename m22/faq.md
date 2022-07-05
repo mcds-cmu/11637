@@ -7,6 +7,8 @@ description: FAQ for the 11637 course.
 
 # FAQ
 
+# For Current Students
+
 ## Quiz
 
 Q: Is the quiz open-book or closed book?
@@ -86,6 +88,7 @@ Q: I saw the requirements to get a pass grade in this course:
 {: .fw-700 }
 
 ![P/NP Image]({{ site.baseurl }}{{ page.subpath }}/assets/images/p-np-image.png)
+{: style="max-width: 800px"}
 
 Does that mean that none of the quiz scores count for the grade? Also, are the scores for other projects beside project 6 and 7 count for the grade?
 {: .fw-700 }
@@ -119,3 +122,16 @@ Q: ​​I missed the OPE. Could the questions which were asked during the OPE b
 
 A: The goal of OPE is to test your collaborative skills, so it doesn’t make sense for you to do it alone. I don’t think you should worry about practicing questions because each OPE is on different topics and the Primers provide enough practice.
 
+## TA/RA Opportunities
+
+Q: I am interested in becoming a TA for the next semester. When will the opportunity become available and what do I do to prepare myself to be considered?
+{: .fw-700 }
+
+A: An announcement for TA positions will be posted on Piazza during the last few weeks of the course. We are looking for students who are both exceptional academically and enthusiastic to help other students succeed. To be a potential candidate, you should excel in the course and be an active member on Piazza answering public questions and/or offering complementary. These are two important factors to be considered for the TA position.
+
+Q: I am interested in becoming a RA for the next semester. When will the opportunity become available and what do I do to prepare myself to be considered?
+{: .fw-700 }
+
+A: An RA’s duty is to assist with course development and other course-related research activities. RA positions are not available every semester, but keep an eye out for future opportunities should one arise.
+
+# For Incoming or Prospective Students
