@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schedule
+title: Course Calendar
 nav_order: 3
 description: >-
-    Schedule for 11637 -  Foundations of Computational Data Science.
+    Course Calendar for 11637 -  Foundations of Computational Data Science.
 ---
 
-# Schedule
+# Course Calendar
 
 {% comment %}
     - Refrain from adding any style for this iFrame through attributes or the `style` attribute.
