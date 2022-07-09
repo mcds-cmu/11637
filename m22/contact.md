@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-nav_order: 10
+nav_order: 11
 description: >-
     Contact Information for 11637 -  Foundations of Computational Data Science.
 ---
