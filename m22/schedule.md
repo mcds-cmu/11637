@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-nav_order: 3
+nav_order: 4
 description: >-
     Calendar for 11637 -  Foundations of Computational Data Science.
 ---

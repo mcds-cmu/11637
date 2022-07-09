@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-nav_order: 5
+nav_order: 6
 description: >-
     Resources for 11637 -  Foundations of Computational Data Science.
 ---
