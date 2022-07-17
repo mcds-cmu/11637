@@ -16,7 +16,7 @@
 title: 11637 - FCDS
 tagline: FCDS
 description: The official course page for 11637 FCDS at CMU
-author: Ashwin Saval (asaval)
+author: Master of Computational Data Science at Carnegie Mellon University
 baseurl: '/11637' # the subpath of your site, e.g. /blog
 url: 'https://mcds-cmu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
@@ -72,6 +72,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+ga_tracking: UA-234353414-1
 
 plugins:
   - jekyll-seo-tag
