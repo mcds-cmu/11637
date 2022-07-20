@@ -1,39 +1,48 @@
 ---
 layout: home
-title: Just the Class
+title: Contributing to 11637
 nav_exclude: true
-# permalink: index.html
-seo:
-  type: Course
-  name: Just the Class
 ---
 
-# Just the Class
+# For Non-Developers (only for minor changes)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+# For Developers
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+This website is heavily adapted from [Just the Class](https://kevinl.info/just-the-class/) ([Github Repo Here](https://github.com/kevinlin1/just-the-class)). We forked [Just the Class](https://kevinl.info/just-the-class/), and made modifications to suit the MCDS theme.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+[Just the Class](https://kevinl.info/just-the-class/) itself uses the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) template.
 
-## Getting Started
+## What does this mean for development?
 
-Getting started with Just the Class is simple.
+[Just the Docs](https://just-the-docs.github.io/just-the-docs/) is the primary template you should be referring to. In the interest of maintainability, much of the implementation is as idiomatic as possible with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) template.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Additionally, [Just the Docs](https://just-the-docs.github.io/just-the-docs/) provides enough examples to help you implement pages, custom images, stylings as well as SEO.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+HINT: A good idea is to clone the [Just the Docs](https://github.com/just-the-docs/just-the-docs) and [Just the Class](https://github.com/kevinlin1/just-the-class) repositories on your local machine. If you are confused about how to do something idiomatically, these repositories can be a good reference.
 
-### Local development environment
+## Customizations
+### 1. The Sidebar is the same size on all desktop views (`custom.scss`):
+![sidebar-adjustments]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/sidebar-adjustments.png)
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+### 2. All styling for the Google Calendar iFrame on `Calendar` (`custom.scss`)
+![gcal-adjustments]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/gcal-styling.png)
+
+### 3. The Anchor Links on the Home and Syllabus Page is a custom implementation of [Just the Docs Navigation Structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/)
+![anchor-links]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/anchor-links.png)
+
+[Just the Docs Navigation Structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) allows for pages and sub-pages to be displayed correcly in the navigation structure.
+
+**However, Just the Docs does not have this capability for anchor links within the same page**. In order to support this functionality in the most idiomatic way possible, we created sub-pages for the Home and Syllabus page, and we added a new field called `anchor_url` to the [Jekyll frontmatter](https://jekyllrb.com/docs/front-matter/).
+
+This is why you will see a long list of empty files under the syllabus (and home) folder, just for anchor links.
+
+![anchor-links]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/anchor-links-implementation.png)
+
+## Local development environment
+
+This site requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone this repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+You should be able to run the site with the following commands:<br />
+```bundle install``` (First time only)<br />
+```bundle exec jekyll serve```
