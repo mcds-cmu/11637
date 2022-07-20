@@ -12,21 +12,21 @@ In order to make changes, here are the steps:
 
 ## 1. Ensure that you are on the `main` branch
 
-![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-branch.png)
+![main-branch](assets/images/dev-docs/github-branch.png)
 
 ## 2. Navigate to any file you want to edit, and click on the `edit-file` icon
 
-![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-edit-file.png)
+![main-branch](assets/images/dev-docs/github-edit-file.png)
 
 ## 3. Once you are done with your changes, make sure to include a description of changes and press `commit changes`
 
-![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-save-file.png)
+![main-branch](assets/images/dev-docs/github-save-file.png)
 
 ## 4. You're done. The Changes will reflect on the website within a few minutes
 
 You can track when the changes will be published by going to the `Actions` tab and monitoring the build.
 
-![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-page-deployment.png)
+![main-branch](assets/images/dev-docs/github-page-deployment.png)
 
 # For Developers
 
@@ -44,13 +44,13 @@ HINT: A good idea is to clone the [Just the Docs](https://github.com/just-the-do
 
 ## Customizations
 ### 1. The Sidebar is the same size on all desktop views (`custom.scss`):
-![sidebar-adjustments]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/sidebar-adjustments.png)
+![sidebar-adjustments](assets/images/dev-docs/sidebar-adjustments.png)
 
 ### 2. All styling for the Google Calendar iFrame on `Calendar` (`custom.scss`)
-![gcal-adjustments]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/gcal-styling.png)
+![gcal-adjustments](assets/images/dev-docs/gcal-styling.png)
 
 ### 3. The Anchor Links on the Home and Syllabus Page is a custom implementation of [Just the Docs Navigation Structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/)
-![anchor-links]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/anchor-links.png)
+![anchor-links](assets/images/dev-docs/anchor-links.png)
 
 [Just the Docs Navigation Structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) allows for pages and sub-pages to be displayed correcly in the navigation structure.
 
@@ -58,7 +58,7 @@ HINT: A good idea is to clone the [Just the Docs](https://github.com/just-the-do
 
 This is why you will see a long list of empty files under the syllabus (and home) folder, just for anchor links.
 
-![anchor-links]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/anchor-links-implementation.png)
+![anchor-links](assets/images/dev-docs/anchor-links-implementation.png)
 
 ## Local development environment
 
