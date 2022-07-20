@@ -6,6 +6,27 @@ nav_exclude: true
 
 # For Non-Developers (only for minor changes)
 
+This website uses `kramdown` which is a variant of `markdown`. All pages with a `.md` extension are processed into HTML by Github.
+
+In order to make changes, here are the steps:
+
+## 1. Ensure that you are on the `main` branch
+
+![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-branch.png)
+
+## 2. Navigate to any file you want to edit, and click on the `edit-file` icon
+
+![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-edit-file.png)
+
+## 3. Once you are done with your changes, make sure to include a description of changes and press `commit changes`
+
+![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-save-file.png)
+
+## 4. You're done. The Changes will reflect on the website within a few minutes
+
+You can track when the changes will be published by going to the `Actions` tab and monitoring the build.
+
+![main-branch]({{ site.baseurl }}{{ page.subpath }}assets/images/dev-docs/github-page-deployment.png)
 
 # For Developers
 
