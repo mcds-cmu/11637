@@ -28,10 +28,15 @@ All of the three components of the final exam must be completed within the final
 
 On the Sail() Platform, you will also see three OPE (Online Programming Exercise) activities. These are synchronous team-based exercises to prepare you for the upcoming projects. Each OPE is associated with a project and accounts for 5% of that project’s grade. The first project, “Project 0: Getting Started,” and the first OPE, “OPE: Practice,” are ungraded.
 
+### End-of-course Survey
+There will be an end-of-course survey to be distributed around the final exam week. The purpose of the survey is to gather constructive feedback from students for further improvement and development of the course. To thank you for your time, students will be awarded 2% of the overall course grade for survey completion.
 
-| Type                                               | Number | Weight |
-|----------------------------------------------------|--------|--------|
-| OLI Content Checkpoint Quizzes (drop lowest score) | 10     | 20%    |
-| Projects                                           | 7      | 70%    |
-| Exam                                               | 1      | 10%    |
-| Total Grade                                        |        | 100%   |
+
+
+| **Type**                                           | **Number** | **Weight** |
+|----------------------------------------------------|------------|------------|
+| OLI Content Checkpoint Quizzes (drop lowest score) | 10 (11-1)  | 20%        |
+| Projects                                           | 7          | 70%        |
+| Exam                                               | 1          | 10%        |
+| End-of-course Survey                               | 1          | 2%         |
+| Total Grade                                        |            | 102%       |
