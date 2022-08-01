@@ -135,3 +135,23 @@ Q: I am interested in becoming a RA for the next semester. When will the opportu
 A: An RA’s duty is to assist with course development and other course-related research activities. RA positions are not available every semester, but keep an eye out for future opportunities should one arise.
 
 # For Incoming or Prospective Students
+
+Q: Where do I find information about the course content?
+{: .fw-700 }
+
+A: To find information about the course content including learning objectives, project descriptions, and conceptual topics, please see the Syllabus.
+
+Q: I’m not sure if I have met the prerequisites of the course. Where do I find the course prerequisites and how do I prepare for them?
+{: .fw-700 }
+
+A: Please find the prerequisites under Syllabus/Overview. Also, feel free to check out the recommended preparatory courses to better prepare yourself for 11-637 under Related Courses/Preparatory courses for FCDS
+
+Q: How do I register for the course?
+{: .fw-700 }
+
+A: For current and incoming CMU students, please register using the [Student Information Online (SIO)](https://s3.as.cmu.edu/sio/index.html){:target="_blank"} system. For non-CMU students, please Contact Us.
+
+Q: I am on the waiting list. What should I do?
+{: .fw-700 }
+
+A: We periodically admit students from the waiting list to the course roster if space allows. If you have a special or urgent request, please Contact Us.
