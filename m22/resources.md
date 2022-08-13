@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Resources
 nav_order: 6
 description: >-

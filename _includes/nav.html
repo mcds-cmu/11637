@@ -65,6 +65,11 @@
     {%- for node in pages_list -%}
       {%- if node.parent == nil -%}
         {%- unless node.nav_exclude -%}
+
+        {% unless node.dir contains layout.nav_filter %}
+          {% continue %}
+        {% endunless %}
+
         <li class="nav-list-item{% if page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
           {%- if node.has_children -%}
             <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
@@ -75,6 +80,11 @@
             <ul class="nav-list ">
             {%- for child in children_list -%}
               {%- unless child.nav_exclude -%}
+
+              {% unless child.dir contains layout.nav_filter %}
+                {% continue %}
+              {% endunless %}
+
               <li class="nav-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
                 {%- if child.has_children -%}
                   <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
@@ -94,6 +104,11 @@
                   <ul class="nav-list">
                   {%- for grand_child in grand_children_list -%}
                     {%- unless grand_child.nav_exclude -%}
+
+                    {% unless child.dir contains layout.nav_filter %}
+                      {% continue %}
+                    {% endunless %}
+                    
                     <li class="nav-list-item {% if page.url == grand_child.url %} active{% endif %}">
                         {%- if grand_child.is_anchor_child -%}
                         <a href="{{ node.url | absolute_url }}#{{ grand_child.anchor_url }}" class="nav-list-link">{{ grand_child.title }}</a>

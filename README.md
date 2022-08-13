@@ -2,6 +2,7 @@
 layout: home
 title: Contributing to 11637
 nav_exclude: true
+search_exclude: true
 ---
 
 # For Non-Developers (only for minor changes)

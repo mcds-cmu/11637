@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Links
 nav_order: 8
 description: >-

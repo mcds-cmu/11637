@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Policies
 nav_order: 5
 description: >-

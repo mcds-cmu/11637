@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Blog
 nav_order: 10
 ---
