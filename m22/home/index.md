@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Home
 nav_order: 1
 description: >-
@@ -25,4 +25,4 @@ permalink: m22/index.html
 
 ## Who We Are
 
-{% include staff.md %}
+{% include staff.md course_version="m22"%}

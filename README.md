@@ -2,6 +2,7 @@
 layout: home
 title: Contributing to 11637
 nav_exclude: true
+search_exclude: true
 ---
 
 # For Non-Developers (only for minor changes)
@@ -67,3 +68,7 @@ This site requires no special Jekyll plugins and can run on GitHub Pages' standa
 You should be able to run the site with the following commands:<br />
 ```bundle install``` (First time only)<br />
 ```bundle exec jekyll serve```
+
+## Migrating Course Pages for Fall and Summer each year
+
+There is a seperate document for migrating course pages based on seasons. You can find that guide [in the README-CourseMigration page](README-CourseMigration)

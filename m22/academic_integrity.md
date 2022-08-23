@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Academic Integrity
 nav_order: 7
 description: >-

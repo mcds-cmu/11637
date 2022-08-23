@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: m22
 title: Syllabus
 nav_order: 2
 description: >-
