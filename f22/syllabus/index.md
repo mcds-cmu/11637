@@ -10,8 +10,6 @@ has_toc: false
 
 # 11-637: Foundations of Computational Data Science - Syllabus
 
-**The latest version of the syllabus is available on [Canvas](https://canvas.cmu.edu/courses/28890) for enrolled students.**
-
 ## Overview
 
 **Title:** Foundations of Computational Data Science <br />
