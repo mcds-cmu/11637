@@ -10,7 +10,7 @@ MCDS students cannot take this course P/NP. For non-MCDS students, please check 
 
 For all students, to be considered a passing grade in the course, these two conditions must be met:
 - All projects must be attempted, and at least some grades before the deadline must be non-zero.
-- Each of projects 6 (Model Deployment and Comparison) and 7 (Evaluation Optimization) must achieve at least 80%.
+- Each of project 2 (Problem Representation), projects 6 (Model Deployment and Comparison) and 7 (Evaluation Optimization) must achieve at least 80%.
 
 These requirements are **in addition** to the standard grade scale evaluation criteria. If you failed to fulfill these requirements by their respective deadlines, you must contact us after the deadlines to continue fulfilling them until you meet the thresholds. Only after then would you be considered to have met the threshold requirements. However, any grade you achieve after the deadlines will not be counted towards the final grade calculation.
 
