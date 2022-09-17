@@ -87,10 +87,11 @@ A: We don’t release one, namely as it depends on the distribution of grades in
 Q: I saw the requirements to get a pass grade in this course:
 {: .fw-700 }
 
-![P/NP Image]({{ site.baseurl }}{{ page.subpath }}/assets/images/p-np-image.png)
-{: style="max-width: 800px"}
+*For all students, to be considered a passing grade in the course, these two conditions must be met:*
+*- All projects must be attempted, and at least some grades before the deadline must be non-zero.*
+*- Each of project 2 (Problem Representation), project 6 (Model Deployment and Comparison) and project 7 (Evaluation Optimization) must achieve at least 80%.*
 
-Does that mean that none of the quiz scores count for the grade? Also, are the scores for other projects beside project 6 and 7 count for the grade?
+Does that mean that none of the quiz scores count for the grade? Also, are the scores for other projects beside project 2, 6 and 7 count for the grade?
 {: .fw-700 }
 
 A: To clarify:
