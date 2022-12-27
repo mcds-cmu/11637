@@ -4,6 +4,6 @@ role: Instructor
 email: ehn@cs.cmu.edu
 website: https://www.cs.cmu.edu/~ehn/
 list_order: 2
-photo: staff/prof-nyberg.png
+photo: staff/prof_nyberg.JPG
 staff_for: [m22, f22]
 ---
