@@ -14,7 +14,7 @@ If you are an incoming student or a student interested in taking the course, ple
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' | sort:"list_order" %}
 <div class="staffer-container">
-{% for staffer in instructors %}
+{% for staffer in instructors_s23 %}
 {{ staffer }}
 {% endfor %}
 </div>
