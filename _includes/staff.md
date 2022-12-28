@@ -2,7 +2,6 @@
 {% assign staffers = site.staffers | where_exp: "staffer", "staffer.staff_for contains include.course_version" %}
 
 {% assign instructors = staffers | where: 'role', 'Instructor' | sort:"list_order" %}
-{% assign instructors_s23 = instructors | where_exp: "instructor", "instructor.staff_for contains include.course_version" %}
 {% assign num_instructors = instructors | size %}
 {% if num_instructors != 0 %}
 <div class="staffer-container">
