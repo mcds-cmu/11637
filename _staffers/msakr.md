@@ -5,5 +5,5 @@ email: msakr@cs.cmu.edu
 website: https://www.cs.cmu.edu/~msakr/
 list_order: 1
 photo: staff/prof-sakr.png
-staff_for: [f22]
+staff_for: [f22, s23]
 ---

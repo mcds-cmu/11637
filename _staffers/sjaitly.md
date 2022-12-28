@@ -5,5 +5,5 @@ email: sjaitly@andrew.cmu.edu
 list_order: 3
 photo: staff/sukriti.png
 website: https://www.linkedin.com/in/sukriti-jaitly/
-staff_for: [f22]
+staff_for: [f22, s23]
 ---
