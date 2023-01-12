@@ -42,7 +42,7 @@ Your participation in the course will involve several forms of activity:
 3. Completing the graded checkpoint weekly quizzes after each unit. 
 4. Complete projects, which are performed on the cloud and submitted through Sail() Platform.
 
-Students should regularly check OLI to see when new content or checkpoint quizzes are made available. Projects and Checkpoint quizzes must be completed by the due dates posted on Sail() Platform.
+Students should regularly check OLI to see when new content or checkpoint quizzes are made available. Projects and Checkpoint quizzes must be completed by the due dates. Project due dates are posted on Sail() Platform. Checkpoint quiz due dates are posted on OLI.
 
 ## Getting Help
 
