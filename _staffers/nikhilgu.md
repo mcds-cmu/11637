@@ -1,6 +1,6 @@
 ---
 name: Nikhil Gupta
-role: Course Staff and Developers
+role: Course Developers
 email: nikhilgu@andrew.cmu.edu
 list_order: 6
 photo: staff/nikhil-g.jpg

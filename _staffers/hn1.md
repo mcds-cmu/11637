@@ -1,6 +1,6 @@
 ---
 name: Huy Nguyen
-role: Course Staff and Developers
+role: Course Developers
 email: hn1@andrew.cmu.edu
 list_order: 1
 photo: staff/huy.jpg

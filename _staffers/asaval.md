@@ -1,6 +1,6 @@
 ---
 name: Ashwin Saval
-role: Course Staff and Developers
+role: Course Developers
 email: asaval@andrew.cmu.edu
 list_order: 8
 photo: staff/ashwin.jpeg

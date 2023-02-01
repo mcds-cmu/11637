@@ -1,6 +1,6 @@
 ---
 name: Junhui Li
-role: Course Staff and Developers
+role: Course Developers
 email: junhuil@andrew.cmu.edu
 list_order: 5
 photo: staff/junhui.jpg

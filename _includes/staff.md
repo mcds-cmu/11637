@@ -22,10 +22,10 @@
 </div>
 {% endif %}
 
-{% assign course_staff = staffers | where: 'role', 'Course Staff and Developers' | sort:"list_order" %}
+{% assign course_staff = staffers | where: 'role', 'Course Developers' | sort:"list_order" %}
 {% assign num_course_staff = course_staff | size %}
 {% if num_course_staff != 0 %}
-### Course Staff and Developers
+### Course Developers
 <div class="staffer-container">
 {% for staffer in course_staff %}
 {{ staffer }}

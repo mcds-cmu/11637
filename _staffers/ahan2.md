@@ -1,6 +1,6 @@
 ---
 name: Annette Han
-role: Course Staff and Developers
+role: Course Developers
 email: ahan2@cs.cmu.edu
 list_order: 2
 photo: staff/annette.jpg

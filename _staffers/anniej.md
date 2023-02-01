@@ -1,6 +1,6 @@
 ---
 name: Annie Johnson
-role: Course Staff and Developers
+role: Course Developers
 email: anniej@andrew.cmu.edu
 list_order: 3
 photo: staff/annie.png
