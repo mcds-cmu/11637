@@ -10,7 +10,7 @@ description: >-
 ## Course links
 
 Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for 11-637 <br />
-Canvas (Fall 2022): [https://canvas.cmu.edu/courses/30737](https://canvas.cmu.edu/courses/30737) <br />
+Canvas (Spring 2023): [https://canvas.cmu.edu/courses/33042](https://canvas.cmu.edu/courses/33042) <br />
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />
 OLI: accessed through Canvas <br />

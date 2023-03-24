@@ -21,7 +21,7 @@ Note: these are suggestions for courses to take before FCDS if you have not alre
 
 **As the next step, depending on your academic program and interest, we think these courses are beneficial:**
 
-**For MCDS students:** please refer to the [program course map](https://mcds.cs.cmu.edu/sites/default/files/mcds-course-map-v8_051921_F21.pdf) or the [curriculum](https://mcds.cs.cmu.edu/learn-us-curriculum) on the MCDS website.
+**For MCDS students:** please refer to the [program curriculum](https://mcds.cs.cmu.edu/learn-us-curriculum) on the MCDS website.
 
 **For Non-MCDS students:** <br />
 [11-631: Data Science Seminar](https://mcds-cmu.github.io/11631/)<br />
