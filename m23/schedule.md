@@ -15,7 +15,7 @@ description: >-
 
 <iframe
     id="class-schedule-iframe"
-    src="https://calendar.google.com/calendar/embed?src=c_44316fe6c0ba5b77d642da698381886b6092cfb10f9535c89b6af1f1e21b94ea%40group.calendar.google.com&ctz=America%2FNew_York"
+    src="https://calendar.google.com/calendar/embed?src=c_65cd8d12a0cc4dc267f778d555a94bce5ce2c4cc9e64adc478756ecbb41c7c93%40group.calendar.google.com&ctz=America%2FNew_York"
     frameborder="0"
     style="border-width:0"
     scrolling="no">
