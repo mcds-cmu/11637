@@ -25,4 +25,4 @@ permalink: m23/index.html
 
 ## Who We Are
 
-{% include staff.md course_version="s23" %}
+{% include staff.md course_version="m23" %}
