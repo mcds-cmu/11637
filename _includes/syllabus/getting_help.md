@@ -1,5 +1,10 @@
-Students are encouraged to ask questions about content and projects through Piazza, where an online class portal has been created for this course.
+## Piazza
+The best communication portal to inquire about coursework-related matters is Piazza (see the Overview for Piazza link). For urgent communication with the teaching staff, it is best to post on Piazza and then send an email for a timely response.
 
-Video recording of the weekly overview is available to all students every week. The teaching staff will discuss any major questions that have been posted to Piazza or by email. For urgent communication with the teaching staff, it is best to post on Piazza and then send an email.  
+## Office Hours (OH)
+The teaching staff holds office hours weekly to assist students with any course-related matters. Students can find the office hours schedule in the Google Calendar provided in the Overview. Before joining the Zoom meeting rooms, students must join the OH Queue, as only those on the queue list will be invited to the meetings. Students attending office hours should join the OH queue, regardless of the queue's current status. Doing so allows TAs to better prepare for students' questions, helps maintain an orderly queue, and ensures students can track their place in line without concern.
 
-We will use the course website as the basic portal for the class. The course content is entirely on OLI.  The project write-ups, submission, scoreboard, and grades are on Sail() Platform. The checkpoint quizzes are on OLI. OLI can be accessed through Canvas. Announcements, discussions, and questions are posted on Piazza.
+## Designated TA / Extra-help OH
+Students will be assigned a designated TA who will be their primary contact for course-related matters. It is important to note that students are not limited to attending only their designated TA's office hours; they are encouraged to interact with all course staff as needed.
+
+Designated TAs also provide students with special extra-help OH if additional assistance is required. These extra-help sessions are separate from the regular office hours and should be scheduled individually with the designated TA. This offers students a valuable opportunity to receive extended support whenever needed.

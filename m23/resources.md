@@ -8,9 +8,9 @@ description: >-
 
 # Resources
 
-## Learning Outcomes
+## Course Topics
 
-{% include syllabus/learning_outcomes.md %}
+{% include syllabus/course_topics.md %}
 
 ## Getting help
 
