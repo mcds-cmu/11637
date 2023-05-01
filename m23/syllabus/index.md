@@ -1,5 +1,5 @@
 ---
-layout: s23
+layout: m23
 title: Syllabus
 nav_order: 2
 description: >-
@@ -29,10 +29,6 @@ has_toc: false
 
 {% include syllabus/course_goals.md %}
 
-## Learning Outcomes
-
-{% include syllabus/learning_outcomes.md %}
-
 ## Course Organization
 
 Your participation in the course will involve several forms of activity:
@@ -60,13 +56,9 @@ Students should regularly check OLI to see when new content or checkpoint quizze
 
 {% include syllabus/cheating.md %}
 
-## Conceptual Topics
+## Course Topics
 
-{% include syllabus/conceptual_topics.md %}
-
-## Projects
-
-{% include syllabus/projects.md %}
+{% include syllabus/course_topics.md %}
 
 ## Schedule
 
