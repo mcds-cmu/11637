@@ -62,7 +62,7 @@ Students should regularly check OLI to see when new content or checkpoint quizze
 
 ## Schedule
 
-See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s23/schedule.md %}) for the tentative schedule. Specific deadlines are posted on OLI and Sail() Platform.
+See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link m23/schedule.md %}) for the tentative schedule. Specific deadlines are posted on OLI and Sail() Platform.
 
 ## Accommodations for Students with Disabilities
 
