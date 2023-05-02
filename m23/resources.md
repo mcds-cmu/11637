@@ -20,7 +20,7 @@ description: >-
 
 {% include syllabus/for_students_with_disabilities.md %}
 
-## Take care of yourself
+## Take Care of Yourself
 
 {% include syllabus/take_care.md %}
 
