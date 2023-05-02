@@ -12,4 +12,4 @@ If the situation is life-threatening, call the police:
 - On-campus: CMU Police: 412-268-2323
 - Off-campus: 911
 
-If you have questions about this or your coursework, please let us know.
+Please let us know if you have questions about this or your coursework.
