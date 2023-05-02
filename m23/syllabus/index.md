@@ -72,6 +72,7 @@ has_toc: false
 {% include syllabus/for_students_with_disabilities.md %}
 
 ## Research to Improve the Course
+
 {% include syllabus/research.md %}
 
 ## Take Care of Yourself
