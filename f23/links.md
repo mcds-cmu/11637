@@ -1,5 +1,5 @@
 ---
-layout: m23
+layout: f23
 title: Links
 nav_order: 8
 description: >-

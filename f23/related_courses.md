@@ -1,5 +1,5 @@
 ---
-layout: m23
+layout: f23
 title: Related Courses
 nav_order: 3
 description: >-

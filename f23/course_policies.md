@@ -1,5 +1,5 @@
 ---
-layout: m23
+layout: f23
 title: Policies
 nav_order: 5
 description: >-

@@ -5,5 +5,5 @@ email: akanauji@andrew.cmu.edu
 list_order: 5
 photo: staff/aditi.jpg
 website: www.linkedin.com/in/aditikanaujia
-staff_for: [m23]
+staff_for: [m23, f23]
 ---

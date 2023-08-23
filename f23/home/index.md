@@ -1,12 +1,12 @@
 ---
-layout: m23
+layout: f23
 title: Home
 nav_order: 1
 description: >-
     Course information for 11637 -  Foundations of Computational Data Science.
 has_children: true
 has_toc: false
-permalink: m23/index.html
+permalink: f23/index.html
 ---
 
 # 11-637: Foundations of Computational Data Science
@@ -25,4 +25,4 @@ permalink: m23/index.html
 
 ## Who We Are
 
-{% include staff.md course_version="m23" %}
+{% include staff.md course_version="f23" %}

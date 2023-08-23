@@ -5,5 +5,5 @@ email: pmandlec@andrew.cmu.edu
 list_order: 4
 photo: staff/pratik.jpg
 website: https://www.linkedin.com/in/pratik-mandlecha/
-staff_for: [m23]
+staff_for: [m23, f23]
 ---

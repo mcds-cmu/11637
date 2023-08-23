@@ -1,5 +1,5 @@
 ---
-layout: m23
+layout: f23
 title: Syllabus
 nav_order: 2
 description: >-
@@ -25,7 +25,7 @@ has_toc: false
 
 **Piazza:** accessed through [https://canvas.cmu.edu](https://canvas.cmu.edu)
 
-**Course Activity Calendar:** [click here]({{ site.baseurl }}{{ page.subpath }}{% link m23/schedule.md %})
+**Course Activity Calendar:** [click here]({{ site.baseurl }}{{ page.subpath }}{% link f23/schedule.md %})
 
 **Course Format:** Remote Hybrid
 - Synchronous:
