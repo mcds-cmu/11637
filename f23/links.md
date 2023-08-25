@@ -13,7 +13,7 @@ Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberl
 Canvas (Fall 2023): [https://canvas.cmu.edu/courses/36901](https://canvas.cmu.edu/courses/36901) <br />
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />
-OLI: accessed through Canvas <br />
+OLI Torus: accessed through Canvas <br />
 Gradescope: accessed through Canvas
 
 ## CMU links

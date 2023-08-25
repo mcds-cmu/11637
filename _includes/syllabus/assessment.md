@@ -1,14 +1,14 @@
-## OLI
+## OLI Torus
 
 ### Practice Quiz
-Practice quizzes are non-graded retrieval practices to access your understanding of the reading materials on OLI. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+Practice quizzes are non-graded retrieval practices to access your understanding of the reading materials on OLI Torus. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
 ### Weekly In-Class Quiz
-Each week, during synchronous class meeting time, students will spend 10 minutes of class time completing the quiz. The quiz assesses the reading contents on OLI the preceding week and is graded. When it is time to take the quiz, students log into OLI to start. A timer will activate once the quiz starts and cannot be paused. The quiz will automatically stop after the time allowance. The student’s work will automatically be submitted and graded by the OLI system.
+Each week, during synchronous class meeting time, students will spend 10 minutes of class time completing the quiz. The quiz assesses the reading contents on OLI Torus the preceding week and is graded. When it is time to take the quiz, students log into OLI Torus to start. A timer will activate once the quiz starts and cannot be paused. The quiz will automatically stop after the time allowance. The student’s work will automatically be submitted and graded by the OLI Torus system.
 
-Students will have only a single attempt to complete the weekly quiz on OLI. 
+Students will have only a single attempt to complete the weekly quiz on OLI Torus. 
 
 ## Sail()
 
@@ -26,7 +26,7 @@ In Project 3 and the final exam, some components are manually graded questions. 
 There are three components to the final exam: the coding, the write-up, and the conceptual quiz. The format of the coding component is similar to the seven prior projects. There is no limit to the number of submissions on Sail() for the coding component. The final grade of this component is based on the most recent submission, not the submission with the highest score.
 
 There is a set of write-up questions at the end of the coding component. Students type the responses directly into the notebook and submit a pdf or images of such work to Gradescope for manual grading.
-The conceptual component of the final exam is administered on OLI. It is a summative assessment of all conceptual materials taught in the course. This component is independent of the coding and the write-up components. It can be started at any time during the final exam period.
+The conceptual component of the final exam is administered on OLI Torus. It is a summative assessment of all conceptual materials taught in the course. This component is independent of the coding and the write-up components. It can be started at any time during the final exam period.
 
 All three components of the final exam must be completed within the final exam window. Strictly no extension will be granted for the final exam.
 

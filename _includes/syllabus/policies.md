@@ -45,8 +45,8 @@ Students can use at most two (2) grace days throughout the course. Students can 
 
 A tutorial on how to use the Grace Day option on Sail() can be found on Canvas.
 
-### For weekly quizzes on OLI:
-Weekly quizzes will be taken independently on OLI during the synchronous class meetings. No grace days are available for these quizzes. 
+### For weekly quizzes on OLI Torus:
+Weekly quizzes will be taken independently on OLI Torus during the synchronous class meetings. No grace days are available for these quizzes. 
 
 ### For the final exam:
 Grace days are not applicable to be used for the final exam. All final exam components must be completed within the final exam period as designated in the course calendar.

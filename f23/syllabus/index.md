@@ -19,7 +19,7 @@ has_toc: false
 - Understanding of basic statistics (descriptive statistics, hypothesis testing, measure of central tendency).
 - Understanding of basic linear algebra.<br />
 
-**Online Learning Initiative (OLI) Course:** accessed through [https://canvas.cmu.edu](https://canvas.cmu.edu)
+**Online Learning Initiative (OLI) Torus:** accessed through [https://canvas.cmu.edu](https://canvas.cmu.edu)
 
 **Sail() Platform:** accessed through [https://canvas.cmu.edu](https://canvas.cmu.edu)
 
