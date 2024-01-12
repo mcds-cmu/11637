@@ -25,6 +25,8 @@ Cheating on projects will also be strictly monitored and penalized. Be mindful o
 
 Ensure that your work is stored in secure directories. The consequences of cheating are severe and can jeopardize your future career – cheating is not worth the risk. By cheating in this course, you are only cheating yourself, missing out on valuable learning opportunities. Furthermore, cheating can result in removal from the course with a failing grade and a permanent record on the student's record.
 
+To ensure academic integrity, we will rigorously use cheat detection tools and other methods to identify unauthorized code use from this term, past terms, or sources available online. Any violation will result in a formal Academic Integrity Violation (AIV) report to both the university and the program. The typical consequence for such an infraction is receiving a failing grade for the course, although lesser penalties may be applied based on the severity of the infraction. For detailed information about specific penalties, please refer to your course syllabus.
+
 ## P/NP Grades
 MCDS students cannot take this course P/NP. Non-MCDS students could take this course P/NP should your program permit.
 
@@ -36,6 +38,10 @@ These requirements are in addition to the standard grade scale evaluation criter
 
 ## Previously Used Assignments
 It is important to note that some of the assignments (including the projects, quizzes, and the final exam) may have been utilized in previous iterations of the course. Solutions to these tasks might be accessible online or through other individuals and sources. We encourage you to embrace the challenge and complete the assignments independently. Please refrain from using external resources or consulting with individuals who have previously solved these problems. Avoid searching for these problems or their solutions on the internet. By doing so, you will truly enhance your learning experience. We will be actively supporting your journey to ensure compliance with these guidelines. Collaboration with fellow students currently enrolled in the course is permitted if it adheres to the abovementioned collaboration conditions.
+
+You may incorporate elements of general knowledge from previous courses into your current work. This includes using pre-existing code for functions like linked lists or processing command-line arguments. However, it's essential to provide clear attribution for any reused code, specifying the source and clearly delineating the start and end of the incorporated material.
+
+If you have previously completed any of the previous components of the course, it is mandatory to discuss this with an instructor at the start of the term. Together, we will establish guidelines regarding which parts of your previous solutions are permissible for reuse. Please note that *reusing any code, **even your own**, without explicit permission from an instructor is **strictly prohibited**.*
 
 ## Grace Days
 ### For Projects on Sail():
@@ -61,3 +67,6 @@ Students are encouraged to explore various online and offline resources, such as
 Students must actively protect their work from duplication and improper use by their peers. Suppose a student's work is copied by another individual. In that case, the original author is also deemed responsible and in severe breach of course policies. This applies regardless of whether the author permitted the work to be copied or was simply careless in preventing such an act. When overlapping work is submitted by different students, both parties will face the consequences.
 
 In the interest of supporting future students, please refrain from publicly posting your solutions, both during the course and after its completion. By taking these precautions, students contribute to maintaining a fair and inclusive learning environment for everyone.
+
+## Perpetual Compliance
+The rules outlined remain applicable even after the completion of the course. Students are prohibited from sharing any code they have written for this course with future students. This includes storing your code in unsecured repositories or posting it on any web pages. Offering guidance or coaching to future students is also forbidden. Violations by students who have completed the course will still lead to AIV reports and could result in retroactive changes to their grades.
