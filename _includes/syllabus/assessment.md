@@ -30,6 +30,7 @@ The submission of the midterm exam will take place on Sail(). Each exam will be 
 The final exam consists of three parts: the coding component, the write-up, and the conceptual quiz. Each of these is designed to assess different skills and knowledge acquired throughout the course.
 
 ### Coding Component on Sail() (30 points):
+
     - Similar to the format of the seven prior projects, students will work on the coding component using Sail().
     - There is no limit on the number of submissions, but the final grade for this component is based on the most recent submission, not the highest score.
     - The autograder on Sail() will not run your notebook code; it will only grade the model deployment part by sending POST requests to your endpoint, with a runtime limit of 70 seconds.
@@ -37,6 +38,7 @@ The final exam consists of three parts: the coding component, the write-up, and 
     - After submission, students can check their model's accuracy and their score on the "My Submissions" tab in Sail().
 
 ### Write-up Component on Gradescope (40 points):
+
     - A set of write-up questions is included at the end of the coding component notebook.
     - Students should type their responses directly in the notebook and submit a PDF or images of their work to Gradescope for manual grading.
     - Students must adhere strictly to the Gradescope instructions to guarantee that their submitted images or pages are correctly linked to the designated question in their write-up. Failure to properly link work to the corresponding question will result in a zero grade, as our system will categorize it as an invalid response.
@@ -45,6 +47,7 @@ The final exam consists of three parts: the coding component, the write-up, and 
     - It's important to note that the Sail() submissions will not be checked for the write-up; only submissions to Gradescope will be considered for grading.
 
 ### Conceptual Component on OLI Torus (30 points):
+
     - This comprehensive quiz covers all course modules and must be completed during class time as per the schedule found in the course calendar.
     - The quiz comprises 15 questions with a 30-minute time limit and is independent of the coding and write-up components.
     - All components of the final exam must be completed within the designated final exam period, and no extensions will be granted. This structure ensures a comprehensive evaluation of the skills and knowledge acquired in the course.
