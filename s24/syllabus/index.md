@@ -33,7 +33,7 @@ has_toc: false
     - The course meets once a week synchronously via Zoom during the scheduled class time
 - Asynchronous: 
     - Students interact with course staff asynchronously via Piazza
-    - Course materials, such as conceptual learning materials, primers, and lecture videos, are delivered asynchronously via various Learning Management Systems (LMS) <br />
+    - Course materials, such as conceptual learning materials, primers, and tutorial videos, are delivered asynchronously via various Learning Management Systems (LMS) <br />
 
 ## Course Description
 
