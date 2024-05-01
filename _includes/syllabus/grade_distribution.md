@@ -13,3 +13,7 @@
 | Final Exam                                               | 15%        |
 | End-of-course Survey                               | 2%         |
 | Total Grade                                        | 102%       |
+
+## Letter Grade Thresholds
+
+There is no fixed set of thresholds for grades. Our grading process employs the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.

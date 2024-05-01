@@ -1,7 +1,7 @@
 ## OLI Torus
 
 ### Practice Quiz
-Practice quizzes are non-graded retrieval practices to access your understanding of the reading materials on OLI Torus. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+Practice quizzes are non-graded retrieval practices to assess your understanding of the reading materials on OLI Torus. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
