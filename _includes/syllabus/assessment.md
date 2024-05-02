@@ -1,7 +1,7 @@
 ## OLI Torus
 
-### Practice Quiz
-Practice quizzes are non-graded retrieval practices to assess your understanding of the reading materials on OLI Torus. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+### Practice Quiz (Did I Get This?)
+Practice quizzes (Did I Get This?) are non-graded retrieval practices found integrated into each module page on OLI Torus. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
@@ -21,10 +21,10 @@ On the Sail() Platform, you will also see two OPE (Online Programming Exercise) 
 ## Manual-graded Components
 In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf or images of their work on Gradescope for manual grading. It is crucial for students to meticulously follow the submission guidelines on Gradescope, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
 
-## Midterm Exam
+<!-- ## Midterm Exam
 A midterm exam will be administered during class time, adhering to the schedule outlined in the course calendar. This exam encompasses both programming and conceptual components, covering all learning objectives taught from the start of the semester up until the midterm. Students are strongly encouraged to thoroughly review all materials from Sail() and Torus in preparation for the exam.
 
-The submission of the midterm exam will take place on Sail(). Each exam will be subject to manual grading to ensure comprehensive and fair assessment. This exam is a crucial part of the course, designed to evaluate the depth of students' understanding and their ability to apply the concepts learned in the first half of the semester.
+The submission of the midterm exam will take place on Sail(). Each exam will be subject to manual grading to ensure comprehensive and fair assessment. This exam is a crucial part of the course, designed to evaluate the depth of students' understanding and their ability to apply the concepts learned in the first half of the semester. -->
 
 ## Final Exam
 The final exam consists of three parts: the coding component, the write-up, and the conceptual quiz. Each of these is designed to assess different skills and knowledge acquired throughout the course.

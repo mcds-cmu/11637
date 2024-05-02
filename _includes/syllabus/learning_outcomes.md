@@ -19,8 +19,6 @@ The conceptual learning objectives are below. Students will be able to:
 
 1. Describe the phases of the data science project lifecycle and articulate the interaction between them to inform the development of analytic solutions.
 
-2. Formulate analytic objectives to produce actionable business/scientific insights from data and then formulate functional and non-functional requirements for an envisioned data-driven solution to a business/research problem.
-
 3. Examine and describe the formal characteristics of the data collection process. Apply the fundamental concepts in the data collection process to a dataset for analysis by machine learning methods.
 
 4. Compare and contrast different techniques of representing the domain as feature vectors; explore how different featurization of a dataset influence trained model performance and task utility.

@@ -1,5 +1,5 @@
 ---
-layout: s24
+layout: m24
 title: Resources
 nav_order: 6
 description: >-

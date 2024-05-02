@@ -41,7 +41,7 @@ It is important to note that some of the assignments (including the projects, qu
 
 You may incorporate elements of general knowledge from previous courses into your current work. This includes using pre-existing code for functions like linked lists or processing command-line arguments. However, it's essential to provide clear attribution for any reused code, specifying the source and clearly delineating the start and end of the incorporated material.
 
-If you have previously completed any of the previous components of the course, it is mandatory to discuss this with an instructor at the start of the term. Together, we will establish guidelines regarding which parts of your previous solutions are permissible for reuse. Please note that *reusing any code, **even your own**, without explicit permission from an instructor is **strictly prohibited**.*
+If you have previously completed any of the previous components of the course in a prior semester, it is mandatory to discuss this with an instructor at the start of the term. Together, we will establish guidelines regarding which parts of your previous solutions are permissible for reuse. Please note that *reusing any code, **even your own**, without explicit permission from an instructor is **strictly prohibited**.*
 
 ## Grace Days
 ### For Projects on Sail():

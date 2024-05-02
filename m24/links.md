@@ -1,5 +1,5 @@
 ---
-layout: s24
+layout: m24
 title: Links
 nav_order: 8
 description: >-

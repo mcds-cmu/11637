@@ -1,16 +1,15 @@
 | **Type**                                           | **Weight** |
 |----------------------------------------------------|------------|
 | 10 OLI Torus Content Checkpoint Quizzes (drop the lowest score) | 15%        |
-| P0	| 4% |
-|P1	|8%|
-|P2|	8%|
-|P3|	8%|
-|P4|	8%|
-|P5|	8%|
-|P6|	8%|
-|P7|	8%|
-| Midterm Exam                                               | 10%        |
-| Final Exam                                               | 15%        |
+| P0	| 3% |
+|P1	|10%|
+|P2|	10%|
+|P3|	10%|
+|P4|	10%|
+|P5|	10%|
+|P6|	10%|
+|P7|	10%|
+| Final Exam                                               | 12%        |
 | End-of-course Survey                               | 2%         |
 | Total Grade                                        | 102%       |
 

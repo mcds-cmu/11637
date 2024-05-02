@@ -1,5 +1,5 @@
 ---
-layout: s24
+layout: m24
 title: FAQ
 nav_order: 9
 description: FAQ for the 11637 course.
