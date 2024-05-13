@@ -20,9 +20,9 @@ description: >-
 
 {% include syllabus/assessment.md %}
 
-## Accommodations for Students with Disabilities
+## Accommodations
 
-{% include syllabus/for_students_with_disabilities.md %}
+{% include syllabus/accommodations.md %}
 
 ## Take care of yourself
 

@@ -67,9 +67,9 @@ has_toc: false
 
 {% include syllabus/policies.md %}
 
-## Accommodations for Students with Disabilities
+## Accommodations
 
-{% include syllabus/for_students_with_disabilities.md %}
+{% include syllabus/accommodations.md %}
 
 ## Research to Improve the Course
 

@@ -1,0 +1,6 @@
+## For Students with Disabilities
+If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at [access@andrew.cmu.edu](access@andrew.cmu.edu).
+
+## Medical Accommodations:
+
+If you require accommodations for medical reasons, please contact [Carnegie Mellon University's Disability Resources](https://www.cmu.edu/disability-resources/students/obtaining-accommodations.html) to initiate the process. It is important to engage with Disability Resources directly for all accommodation requests, as they are equipped to assess and provide the necessary support in line with university procedures. Please refrain from sending any medical documentation directly to course instructors. As instructors, we are committed to implementing the accommodations approved by Disability Resources to ensure equitable access to our course.

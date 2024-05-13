@@ -16,9 +16,9 @@ description: >-
 
 {% include syllabus/getting_help.md %}
 
-## Accommodations for Students with Disabilities
+## Accommodations
 
-{% include syllabus/for_students_with_disabilities.md %}
+{% include syllabus/accommodations.md %}
 
 ## Take Care of Yourself
 
