@@ -5,5 +5,5 @@ email: moukhikm@andrew.cmu.edu
 list_order: 3
 photo: staff/moukhik.png
 website: https://www.linkedin.com/in/moukhikmisra
-staff_for: [s24, m24]
+staff_for: [s24, m24, f24]
 ---
