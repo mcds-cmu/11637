@@ -15,4 +15,4 @@
 
 ## Letter Grade Thresholds
 
-There is no fixed set of thresholds for grades. Our grading process employs the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.
+There is no fixed set of thresholds for grades. Our grading process employs the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean. Due to this variation, we generally do not disclose these thresholds.
