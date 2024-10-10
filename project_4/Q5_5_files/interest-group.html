@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!-- saved from url=(0287)https://fledge.us.criteo.com/interest-group?data=vIHm9nxJVkRVZTczcWN1SHh2clkyQTBKUFNtWm51a3lyM3FILzRPMFRZbk1ZcUdtTUpCdmhDUGorMUxaUGlRT09FSFZaK2JnNzNLMC9XUmJxc2RhTUVxQmQ0RkV4bExPT2JIc1VYRm8rTkhpM0dXYjlJZlhZZCtSekVWLzR4aEVkdmE2cEpZaDJLc281Ui9iNmptTVdibGd6d25kS05vbEMxcGpYUUkzQVNCN2xLVEE9fA -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Fledge IFrame</title>
+</head>
+<body>
+
+<script>
+    function getBswIg(src) {
+        const elt = document.createElement("iframe");
+        elt.allow = "join-ad-interest-group";
+        elt.width = "0";
+        elt.height = "0";
+        elt.style.display = "none";
+        elt.title = "BSW IG";
+        elt.src = src;
+
+        document.body.appendChild(elt);
+    }
+
+    if (!navigator.joinAdInterestGroup) {
+        console.log("No fledge for you!");
+    } else {
+        var igs =[{"owner":"https://fledge.us.criteo.com","name":"ITwoznxPYW5vQXlESGVPclpwVXVmSDAyVEd3PT18","lifetimeMs":2592000000,"priorityVector":{"browserSignals.ageInMinutes":-1,"browserSignals.one":-86400},"biddingLogicURL":"https://fledge.us.criteo.com/simplebid?platform=us","biddingWasmHelperURL":"https://fledge.us.criteo.com/criteo.wasm","trustedBiddingSignalsURL":"https://fledge.us.criteo.com/getvalues","trustedBiddingSignalsKeys":["trigSnxXZ044YzZlUmZpNXVRbUw0Z25TUHBrc2MrMnZ6bTBQcDR0ajJYY1FibFVoUm1oTWR2blR4OWc0VjlsNWc1UkFTNUhZVHcvWUc0Si9Yd1d1S2V1L3pPbDdTZE83Wmh5bnpxSXlnK3hXQk9pYk1Hb1UwTkdZRm1jaXlFYnJrTWhNWXw"],"maxTrustedBiddingSignalsURLLength":32768,"userBiddingSignals":{},"updateURL":"https://fledge.us.criteo.com/interest-group/update?key=itPL8HxSK1crV3ZqZEdvN0JlNmphU0pPdjVlMnQwaVFsdFNYYTBwRlk4MFZZQUdJcjJubEwxYVo0S0pTVGg0bmhvb2lCR01oOC9UWEl1aTFjaUwwamE2bU1RbFRlUE1sS0lleElaaldzVVErS1dFTGlxc01YSkhlcjNOU2FuVVJ2N3o5UXw","ads":[],"adComponents":[],"trustedBiddingSignalsSlotSizeMode":"slot-size","executionMode":"group-by-origin","sellerCapabilities":{"*":["interest-group-counts","latency-stats"]}}];
+        var expiration =2592000;
+        var errorEndpoint = "https://fledge.us.criteo.com/interest-group/error?pid=60881";
+        if (navigator.joinAdInterestGroup.length == 1) {
+            for (const ig of igs) {
+                navigator.joinAdInterestGroup(ig).catch((e) => fetch(`${errorEndpoint}&message=${encodeError(e)}`));
+            }
+        } else {
+            // This is for backwards-compatibility
+            // The 1 - arg implementation is future - proof
+            for (const ig of igs) {
+                navigator.joinAdInterestGroup(ig, expiration).catch((e) => fetch(`${errorEndpoint}&message=${encodeError(e)}`));
+            }
+        }
+        if (false) {
+            getBswIg("https://dsp-paapi-sandbox.bsw-ig.criteo.com/paapi/trade/dsp/api/interest_group_join/bsw-sb-ig-test-1");
+            getBswIg("https://paa-proxy-dsp.bsw-sb.criteo.com/paapi/paa-proxy/dsp/api/interest_group_join/bsw-sb-ig-paa-proxy");
+        }
+
+        const toLeave =[{"owner":"https://fledge.us.criteo.com","name":"sGdxyXx3ajVYNWJsUGxVVlhHWFphd3BWUW9RPT18"},{"owner":"https://fledge.us.criteo.com","name":"K1Wal3xkZHFBNDFZakhJcDZ1cjZLa0pOaGhRPT18"},{"owner":"https://fledge.us.criteo.com","name":"dpTqT3xWNVExTytpVFg0M0tiQTVKNzYvbGVRPT18"},{"owner":"https://fledge.us.criteo.com","name":"T0TIrXw0VlBkMDJsaExjdHh0eU9jQXZlNlp3PT18"},{"owner":"https://fledge.us.criteo.com","name":"xpJEpnw0NnhlWWVtMVZXSGNzV0kzR1hmS3ZBPT18"},{"owner":"https://fledge.us.criteo.com","name":"LMIoaHwyODdobFhxTmkzRFoxK3RzQUpqQ053PT18"},{"owner":"https://fledge.us.criteo.com","name":"6REduXw5bHVmMVpUSnFiQ2VnZytXQmZuS2dnPT18"},{"owner":"https://fledge.us.criteo.com","name":"AFJoOnxLNGtYdFNQaHBKMG9NTWdIRmZjc0xBPT18"},{"owner":"https://fledge.us.criteo.com","name":"pb_Bv3w4elNtdDVPVXZQeFM0Y0p3VFloWUh3PT18"},{"owner":"https://fledge.us.criteo.com","name":"BfbVqnxFQ24zU3MrMlR4eTZCSnZZY2pYTXpRPT18"},{"owner":"https://fledge.us.criteo.com","name":"HdVA5nxTN21SbGhMU0owUTRsQ0NSMzNLYlh3PT18"},{"owner":"https://fledge.us.criteo.com","name":"S-CEW3wwaFBqa3dHdjY5QUZXUTdKTnZxY0ZBPT18"},{"owner":"https://fledge.us.criteo.com","name":"f3iyEnx2ZjZMSE16VENJQ1BYVUdCa3BaWENBPT18"},{"owner":"https://fledge.us.criteo.com","name":"EMQasXxXNmZXNHQrTXBOSFZQWUFuQmlQLzV3PT18"},{"owner":"https://fledge.us.criteo.com","name":"oA6Ij3xnd3UwWDR1N3lpS0VyN1Z6dnl6cmRnPT18"},{"owner":"https://fledge.us.criteo.com","name":"ZE71BXxUZE5HNjZJbmgrL1FLQWlSZUdHamR3PT18"}];
+        for (const ig of toLeave) {
+            navigator.leaveAdInterestGroup(ig).catch((_) => {});
+        }
+    }
+
+    function encodeError(error) {
+        return encodeURIComponent(error.name + ':' + error.message);
+    }
+
+    async function measureAudienceSize() {
+        // Measuring audience size
+        // Register worklet
+        if((!window?.sharedStorage?.worklet?.addModule) || (!window?.sharedStorage?.run)){
+            return;
+        }
+        await window.sharedStorage.worklet.addModule('');
+
+        // Run audience size measurement operation
+        await window.sharedStorage.run('audience-size-measurement', {
+            data: { bucketKey: BigInt('1948196'), contributionValue:8192}
+        });
+    }
+
+    //TODO reactivate audience-size-measurement
+    //measureAudienceSize();
+
+</script>
+
+</body></html>
