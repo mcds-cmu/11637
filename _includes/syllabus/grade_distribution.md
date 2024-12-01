@@ -1,6 +1,6 @@
 | **Type**                                           | **Weight** |
 |----------------------------------------------------|------------|
-| 10 OLI Torus Content Checkpoint Quizzes (drop the lowest score) | 15%        |
+| OLI Torus Content Checkpoint Quizzes (drop the lowest score) | 15%        |
 | P0	| 3% |
 |P1	|10%|
 |P2|	10%|
