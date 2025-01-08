@@ -1,7 +1,7 @@
 ## Canvas
 
-### Practice Quiz (Did I Get This?)
-Practice quizzes (Did I Get This?) are non-graded retrieval practices found integrated into each module page on Canvas. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+### Practice Quiz
+Practice quizzes are non-graded retrieval practices found integrated into each module page on Canvas. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
@@ -19,7 +19,7 @@ This course includes seven individual project themes. Each project theme consist
 On the Sail() Platform, you will also see two OPE (Online Programming Exercise) activities: a practice OPE and an OPE after Project 3. These are synchronous team-based exercises to expand your knowledge on the topics of the preceding projects. Each OPE is associated with a project and accounts for 5% of that project's grade. The first OPE, "OPE: Practice," is ungraded.
 
 ## Manual-graded Components
-In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf or images of their work on Canvas for manual grading. It is crucial for students to meticulously follow the submission guidelines on Canvas, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
+In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf their work on Canvas for manual grading. It is crucial for students to meticulously follow the submission guidelines on Canvas, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
 
 <!-- ## Midterm Exam
 A midterm exam will be administered during class time, adhering to the schedule outlined in the course calendar. This exam encompasses both programming and conceptual components, covering all learning objectives taught from the start of the semester up until the midterm. Students are strongly encouraged to thoroughly review all materials from Sail() and Torus in preparation for the exam.
@@ -40,7 +40,7 @@ The final exam consists of three parts: the coding component, the write-up, and 
 ### Write-up Component on Canvas (40 points):
 
     - A set of write-up questions is included at the end of the coding component notebook.
-    - Students should type their responses directly in the notebook and submit a PDF or images of their work to Canvas for manual grading.
+    - Students should type their responses directly in the notebook and submit a PDF their work to Canvas for manual grading.
     - Students must adhere strictly to the Canvas instructions to guarantee that their submitted images or pages are correctly linked to the designated question in their write-up. Failure to properly link work to the corresponding question will result in a zero grade, as our system will categorize it as an invalid response.
     - Submissions can be made any number of times before the final exam deadline on Canvas, with the final grade based on the latest submission.
     - A grace period of 12 hours is available on Canvas, but submissions in this period will incur a 20% grade penalty. Submissions after this grace period will not be accepted.
@@ -53,4 +53,4 @@ The final exam consists of three parts: the coding component, the write-up, and 
     - All components of the final exam must be completed within the designated final exam period, and no extensions will be granted. This structure ensures a comprehensive evaluation of the skills and knowledge acquired in the course.
 
 ## End-of-course Survey
-An end-of-course survey will be distributed around the final exam week. The survey aims to gather constructive feedback from students for further improvement and development of the course. To thank you for your time, students will be awarded 2% of the overall course grade for survey completion.
+An end-of-course survey will be distributed around the final exam week. The survey aims to gather constructive feedback from students for further improvement and development of the course. To thank you for your time, students will be awarded 1% of the overall course grade for survey completion.
