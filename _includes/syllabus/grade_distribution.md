@@ -1,6 +1,6 @@
 | **Type**                                           | **Weight** |
 |----------------------------------------------------|------------|
-| OLI Torus Content Checkpoint Quizzes (drop the lowest score) | 15%        |
+| Canvas Content Checkpoint Quizzes (drop the lowest score) | 15%        |
 | P0	| 3% |
 |P1	|10%|
 |P2|	10%|
@@ -10,8 +10,8 @@
 |P6|	10%|
 |P7|	10%|
 | Final Exam                                               | 12%        |
-| End-of-course Survey                               | 2%         |
-| Total Grade                                        | 102%       |
+| End-of-course Survey                               | 1%         |
+| Total Grade                                        | 101%       |
 
 ## Letter Grade Thresholds
 

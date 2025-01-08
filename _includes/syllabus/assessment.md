@@ -1,14 +1,14 @@
-## OLI Torus
+## Canvas
 
 ### Practice Quiz (Did I Get This?)
-Practice quizzes (Did I Get This?) are non-graded retrieval practices found integrated into each module page on OLI Torus. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+Practice quizzes (Did I Get This?) are non-graded retrieval practices found integrated into each module page on Canvas. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
 ### Weekly In-Class Quiz
-Each week, during synchronous class meeting time, students will spend 10 minutes of class time completing the quiz. The quiz assesses the reading contents on OLI Torus the preceding week and is graded. When it is time to take the quiz, students log into OLI Torus to start. A timer will activate once the quiz starts and cannot be paused. The quiz will automatically stop after the time allowance. The student’s work will automatically be submitted and graded by the OLI Torus system.
+Each week, during synchronous class meeting time, students will spend 10 minutes of class time completing the quiz. The quiz assesses the reading contents on Canvas the preceding week and is graded. When it is time to take the quiz, students log into Canvas to start. A timer will activate once the quiz starts and cannot be paused. The quiz will automatically stop after the time allowance. The student’s work will automatically be submitted and graded by the Canvas system.
 
-Students will have only a single attempt to complete the weekly quiz on OLI Torus. 
+Students will have only a single attempt to complete the weekly quiz on Canvas. 
 
 ## Sail()
 
@@ -19,7 +19,7 @@ This course includes seven individual project themes. Each project theme consist
 On the Sail() Platform, you will also see two OPE (Online Programming Exercise) activities: a practice OPE and an OPE after Project 3. These are synchronous team-based exercises to expand your knowledge on the topics of the preceding projects. Each OPE is associated with a project and accounts for 5% of that project's grade. The first OPE, "OPE: Practice," is ungraded.
 
 ## Manual-graded Components
-In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf or images of their work on Gradescope for manual grading. It is crucial for students to meticulously follow the submission guidelines on Gradescope, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
+In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf or images of their work on Canvas for manual grading. It is crucial for students to meticulously follow the submission guidelines on Canvas, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
 
 <!-- ## Midterm Exam
 A midterm exam will be administered during class time, adhering to the schedule outlined in the course calendar. This exam encompasses both programming and conceptual components, covering all learning objectives taught from the start of the semester up until the midterm. Students are strongly encouraged to thoroughly review all materials from Sail() and Torus in preparation for the exam.
@@ -37,16 +37,16 @@ The final exam consists of three parts: the coding component, the write-up, and 
     - Students can use Azure ML Studio exclusively for model deployment, while other steps can be completed in any chosen environment.
     - After submission, students can check their model's accuracy and their score on the "My Submissions" tab in Sail().
 
-### Write-up Component on Gradescope (40 points):
+### Write-up Component on Canvas (40 points):
 
     - A set of write-up questions is included at the end of the coding component notebook.
-    - Students should type their responses directly in the notebook and submit a PDF or images of their work to Gradescope for manual grading.
-    - Students must adhere strictly to the Gradescope instructions to guarantee that their submitted images or pages are correctly linked to the designated question in their write-up. Failure to properly link work to the corresponding question will result in a zero grade, as our system will categorize it as an invalid response.
-    - Submissions can be made any number of times before the final exam deadline on Gradescope, with the final grade based on the latest submission.
-    - A grace period of 12 hours is available on Gradescope, but submissions in this period will incur a 20% grade penalty. Submissions after this grace period will not be accepted.
-    - It's important to note that the Sail() submissions will not be checked for the write-up; only submissions to Gradescope will be considered for grading.
+    - Students should type their responses directly in the notebook and submit a PDF or images of their work to Canvas for manual grading.
+    - Students must adhere strictly to the Canvas instructions to guarantee that their submitted images or pages are correctly linked to the designated question in their write-up. Failure to properly link work to the corresponding question will result in a zero grade, as our system will categorize it as an invalid response.
+    - Submissions can be made any number of times before the final exam deadline on Canvas, with the final grade based on the latest submission.
+    - A grace period of 12 hours is available on Canvas, but submissions in this period will incur a 20% grade penalty. Submissions after this grace period will not be accepted.
+    - It's important to note that the Sail() submissions will not be checked for the write-up; only submissions to Canvas will be considered for grading.
 
-### Conceptual Component on OLI Torus (30 points):
+### Conceptual Component on Canvas (30 points):
 
     - This comprehensive quiz covers all course modules and must be completed during class time as per the schedule found in the course calendar.
     - The quiz comprises 15 questions with a 30-minute time limit and is independent of the coding and write-up components.

@@ -14,7 +14,7 @@ Canvas (Spring 2023): [https://canvas.cmu.edu/courses/33042](https://canvas.cmu.
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />
 OLI: accessed through Canvas <br />
-Gradescope: accessed through Canvas
+Canvas: accessed through Canvas
 
 ## CMU links
 

@@ -32,7 +32,7 @@ MCDS students cannot take this course P/NP. Non-MCDS students could take this co
 
 To be considered a passing grade in the course, all students must be met the following two conditions:
 - All projects (including the final exam) must be attempted, and at least some grades before the deadline must be non-zero.
-- Each of Project 2 (Problem Representation), project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must achieve at least 80%, without accounting for discussion and reflection.
+- Each of Project 2 (Problem Representation), project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must achieve at least 75/95 points (~80)%.
 
 These requirements are in addition to the standard grade scale evaluation criteria. Suppose you fail to fulfill these requirements by their respective deadlines. In that case, you must contact us after the deadlines to continue fulfilling them until you meet the thresholds. Only after then would you be considered to have met the threshold requirements. However, any grade you achieve after the deadlines will not be counted toward the final grade calculation.
 
@@ -51,8 +51,8 @@ Students can use at most two (2) grace days throughout the course. Students can 
 
 A tutorial on how to use the Grace Day option on Sail() can be found on Canvas.
 
-### For weekly quizzes on OLI Torus:
-Weekly quizzes will be taken independently on OLI Torus during the synchronous class meetings. No grace days are available for these quizzes. 
+### For weekly quizzes on Canvas:
+Weekly quizzes will be taken independently on Canvas during the synchronous class meetings. No grace days are available for these quizzes. 
 
 ### For the final exam:
 Grace days are not applicable to be used for the final exam. All final exam components must be completed within the final exam period as designated in the course calendar.
