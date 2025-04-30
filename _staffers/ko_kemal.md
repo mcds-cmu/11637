@@ -5,5 +5,5 @@ email: ko@andrew.cmu.edu
 website: https://www.andrew.cmu.edu/user/ko/
 list_order: 3
 photo: staff/kemal_oflazer.png
-staff_for: [f22]
+staff_for: [f22, m25]
 ---

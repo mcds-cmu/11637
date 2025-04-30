@@ -5,5 +5,5 @@ email: anandanw@andrew.cmu.edu
 list_order: 1
 photo: staff/adarsh.jpeg
 website: https://adarshnandanwar.github.io/
-staff_for: [s25]
+staff_for: [s25, m25]
 ---
