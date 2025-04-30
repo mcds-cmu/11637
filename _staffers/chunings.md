@@ -7,3 +7,4 @@ photo: staff/chuning.jpg
 website: https://www.linkedin.com/in/chuning-shi-3a8460206/
 staff_for: [m25]
 ---
+MCDS
