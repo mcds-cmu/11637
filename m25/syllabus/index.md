@@ -8,7 +8,7 @@ has_children: true
 has_toc: false
 ---
 
-# 11-637: Foundations of Computational Data Science - Syllabus
+# 11-637/73: Foundations of Computational Data Science - Syllabus
 
 ## Overview
 

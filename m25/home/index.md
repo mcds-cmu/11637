@@ -9,11 +9,11 @@ has_toc: false
 permalink: m25/index.html
 ---
 
-# 11-637: Foundations of Computational Data Science
+# 11-637/73: Foundations of Computational Data Science
 
-## Spring 2025
+## Summer 2025
 
-11-637 Foundations of Computational Data Science (FCDS) is a fully online course offered by the [Master of Computational Data Science (MCDS) program](https://mcds.cs.cmu.edu), [School of Computer Science](https://www.scs.cmu.edu), [Carnegie Mellon University (CMU)](https://www.cmu.edu). The course is offered in all semesters (Spring, Fall, and Fall) and is [open to MCDS and non-MCDS students from all CMU programs and campuses](https://www.cmu.edu/hub/registrar/registration/). The course is also open to [non-CMU students](https://www.cmu.edu/hub/registrar/registration/vnd/index.html).
+11-637/73 Foundations of Computational Data Science (FCDS) is a fully online course offered by the [Master of Computational Data Science (MCDS) program](https://mcds.cs.cmu.edu), [School of Computer Science](https://www.scs.cmu.edu), [Carnegie Mellon University (CMU)](https://www.cmu.edu). The course is offered in all semesters (Summer, Fall, and Fall) and is [open to MCDS and non-MCDS students from all CMU programs and campuses](https://www.cmu.edu/hub/registrar/registration/). The course is also open to [non-CMU students](https://www.cmu.edu/hub/registrar/registration/vnd/index.html).
 
 ### Course Description
 
