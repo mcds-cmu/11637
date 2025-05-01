@@ -64,7 +64,7 @@ has_toc: false
 
 ## Policies
 
-{% include syllabus/policies.md %}
+{% include syllabus/policies_m25.md %}
 
 ## Accommodations
 
