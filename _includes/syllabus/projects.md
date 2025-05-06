@@ -7,7 +7,7 @@ The growth of the home-sharing and short-term rental markets have presented oppo
 
 ### Project 2: Problem Representation
 
-Product review is a rich source of data for any business and can be used to improve customer experience, for example, by recommending new products that cater to the customer's preference (think Amazon or Netflix). In this project, students will use a dataset of product review ratings to implement a simple recommender system using the collaborative filtering approach. The project will help students understand different representations of the collaborative filtering problem as well as the runtime and storage tradeoff in each representation.
+Product review is a rich source of data for any business and can be used to improve customer experience, for example, by recommending new products that cater to the customer's preference (think Amazon or Netflix). In this project, students will use a dataset of product review ratings to implement a simple recommender systems using the collaborative filtering approach. The project will help students understand different representations of the collaborative filtering problem as well as the runtime and storage tradeoff in each representation.
 
 ### Project 3: Domain Analysis and Exploration
 

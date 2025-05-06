@@ -2,7 +2,7 @@
 ### For Projects on Sail():
 Grace days provide students an extension without penalty to complete work. Each grace day extends a project deadline for 24 hours beyond the original deadline. Students can activate grace days after the original deadline and within 24 hours.
 
-Students can use at most two (2) grace days throughout the course. Students can only use up to one (1) grace day for each project.
+Students can use at most four (4) grace days throughout the course. Students can only use up to one (1) grace day for each project.
 
 A tutorial on how to use the Grace Day option on Sail() can be found on Canvas.
 
@@ -17,8 +17,8 @@ MCDS students must take this course for a letter grade. Non-MCDS students may ta
 
 To earn a passing grade, all students must satisfy the following requirements:
 
-    - All projects, including the final exam, must score at least 30/95 points (~30%).
-    - Project 2 (Problem Representation), Project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must each score at least 75/95 points (~80%).
+- All projects, including the final exam, must score at least 30/95 points (~30%).
+- Project 2 (Problem Representation), Project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must each score at least 75/95 points (~80%).
 
 These requirements supplement the standard grade scale evaluation criteria. Failure to meet these requirements will result in a failing grade for the course, regardless of your final grade percentage.
 
