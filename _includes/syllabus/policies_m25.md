@@ -75,7 +75,7 @@ All violations (even first one) of course policies will always be reported to th
 
 The penalty for the first violation is a negative 100% (-100%) on the assignment (i.e., it would have been better to submit nothing and receive a 0%).
 
-The penalty for the second violation is failure in the course, and can even lead to dismissal from the university, depending on your program's policy.
+The penalty for the second violation is a failure (R grade) in the course, and can even lead to dismissal from the university, depending on your program's policy.
 
 ## Perpetual Compliance
 The rules outlined remain applicable even after the completion of the course. Students are prohibited from sharing any code they have written for this course with future students. This includes storing your code in unsecured repositories or posting it on any web pages. Offering guidance or coaching to future students is also forbidden. Violations by students who have completed the course will still lead to AIV reports and could result in retroactive changes to their grades.
