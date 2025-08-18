@@ -5,6 +5,6 @@ email: snavare@andrew.cmu.edu
 list_order: 6
 photo: staff/sarvesh.jpg
 website: 
-staff_for: [m25]
+staff_for: [m25, f25]
 ---
 MCDS

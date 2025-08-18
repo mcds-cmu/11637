@@ -1,3 +1,6 @@
+## Participation
+### 
+
 ## Grace Days
 ### For Projects on Sail():
 Grace days provide students an extension without penalty to complete work. Each grace day extends a project deadline for 24 hours beyond the original deadline. Students can activate grace days after the original deadline and within 24 hours.

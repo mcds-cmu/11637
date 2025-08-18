@@ -5,6 +5,6 @@ email: arihants@andrew.cmu.edu
 list_order: 3
 photo: staff/arihant.jpg
 website: https://www.linkedin.com/in/arihantsheth/
-staff_for: [m25]
+staff_for: [m25, f25]
 ---
 MCDS
