@@ -1,5 +1,5 @@
 ---
-layout: m25
+layout: f25
 title: Policies
 nav_order: 5
 description: >-
@@ -8,4 +8,4 @@ description: >-
 
 # Policies
 
-{% include syllabus/policies_m25.md %}
+{% include syllabus/policies_f25.md %}
