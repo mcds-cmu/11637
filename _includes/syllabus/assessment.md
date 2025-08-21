@@ -1,3 +1,13 @@
+## Participation
+
+During lectures and recitations, we will use interactive activities to enhance classroom engagement. These activities will be administered through PollEverywhere, with a unique link and QR code provided for each question. To participate, you must create a PollEverywhere account using your CMU email address.
+
+Each question will be open for responses for 5 minutes from the time it is displayed. You may submit multiple responses per question. Your participation grade is based solely on submission, not the correctness of your answers. The participation grade will be calculated as follows:
+
+- 90% or higher participation in interactive activities: 100% of the attendance score
+- 50–89% participation in interactive activities: corresponding percentage of the attendance score
+- Below 50% participation in interactive activities: 0% of the attendance score
+
 ## Canvas
 
 ### Practice Quiz

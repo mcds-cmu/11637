@@ -59,7 +59,10 @@ You may incorporate elements of general knowledge from previous courses into you
 If you have previously completed any of the previous components of the course in a prior semester, it is mandatory to discuss this with an instructor at the start of the term. Together, we will establish guidelines regarding which parts of your previous solutions are permissible for reuse. Please note that *reusing any code, **even your own**, without explicit permission from an instructor is **strictly prohibited**.*
 
 ## AI Assistance
-Seeking assistance from an artificial intelligence system (e.g., a large language model such as ChatGPT) is strictly prohibited.
+Seeking assistance from an artificial intelligence system (e.g., a large language model such as ChatGPT) is strictly prohibited in all assignments in the course.
+
+## Proctored Retakes
+If we notice irregularities in your quizzes or final exam quiz, we reserve the right to ask you to redo the assessment under a controlled setting.
 
 ## “Found Code”
 Students are encouraged to explore various online and offline resources, such as books and instructional materials, to deepen their understanding of the learning materials presented in class. These resources may include an example or pseudo code, which can help clarify an algorithm or implementation detail. However, when crafting a unique solution for an assignment, students must set all materials aside and develop their code entirely independently, starting "from scratch." It is important not to use any code found or encountered in the process. If students encounter code that implements any portion of their assignment, they must disclose this in their collaboration statement. By adhering to this policy, students can ensure a rewarding and authentic learning experience.
