@@ -28,8 +28,7 @@ has_toc: false
 
 **Course Format:** Remote Hybrid
 - Synchronous:
-    - 1st meeting of the semester is a live session--details will be sent prior to the start of the course 
-    - The course meets once a week synchronously via Zoom during the scheduled class time
+    - The course meets twice (one lecture and one recitation) a week synchronously via Zoom during the scheduled class time
 - Asynchronous: 
     - Students interact with course staff asynchronously via Piazza
     - Course materials, such as conceptual learning materials, primers, and tutorial videos, are delivered asynchronously via various Learning Management Systems (LMS) <br />
