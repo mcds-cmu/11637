@@ -8,4 +8,4 @@ description: >-
 
 # Policies
 
-{% include syllabus/policies_s26.md %}
+{% include syllabus/policies_f25.md %}
