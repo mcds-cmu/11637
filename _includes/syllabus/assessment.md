@@ -21,7 +21,7 @@ Each week, during synchronous class meeting time, students will spend 10 minutes
 Students will have only a single attempt to complete the weekly quiz on Canvas.  -->
 
 ### Weekly Quiz
-Each week, the quiz will be open for 24 hours before class on Tuesday and is due before class starts on Tuesday. Students can access the quiz at any time during this 24-hour period but will have only 10 minutes to complete it once the quiz is started. When starting the quiz, students log into Canvas, and a timer will activate. The timer cannot be paused, and the quiz will automatically stop after 10 minutes. The student’s work will be automatically submitted and graded by the Canvas system. The quiz assesses the reading content on Canvas from the preceding week and is graded.
+Each week, the quiz will be open on Tuesdays and is due the following Mondays. The exact schedule is posted in Canvas. Students can access the quiz at any time during this period but will have only 10 minutes to complete it once the quiz is started. When starting the quiz, students log into Canvas, and a timer will activate. The timer cannot be paused, and the quiz will automatically stop after 10 minutes. The student’s work will be automatically submitted and graded by the Canvas system. The quiz assesses the reading content on Canvas from the preceding week and is graded.
 
 Students will have only a single attempt to complete the weekly quiz on Canvas.
 
