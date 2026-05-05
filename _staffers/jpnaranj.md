@@ -1,10 +1,10 @@
 ---
-name: Juan Pablo Naranjo
+name: Yuteng Zhang
 role: Teaching Assistant
-email: jpnaranj@andrew.cmu.edu
-list_order: 2
-photo: staff/juan.jpg
-website: https://www.linkedin.com/in/juanpnaranjoc/
-staff_for: [s26]
+email: yutengz@andrew.cmu.edu
+list_order: 3
+photo: staff/yutengz.png
+website: https://www.linkedin.com/in/yutengz03/
+staff_for: [m26]
 ---
 MCDS
