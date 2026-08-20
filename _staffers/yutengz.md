@@ -5,6 +5,6 @@ email: jpnaranj@andrew.cmu.edu
 list_order: 2
 photo: staff/juan.jpg
 website: https://www.linkedin.com/in/juanpnaranjoc/
-staff_for: [s26, m26]
+staff_for: [s26, m26, f26]
 ---
 MCDS
