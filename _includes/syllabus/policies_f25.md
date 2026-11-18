@@ -15,10 +15,13 @@ Grace days are not applicable to be used for the final exam. All final exam comp
 ## P/NP Grades
 MCDS students must take this course for a letter grade. Non-MCDS students may take it Pass/No Pass (P/NP) if their program allows.
 
+## Passing Grade
+
 To earn a passing grade, all students must satisfy the following requirements:
 
-- All projects, including the final exam, must score at least 30/95 points (~30%).
+- All projects (Projects 0 to 7) must score at least 30/95 points (~30%).
 - Project 2 (Problem Representation), Project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must each score at least 75/95 points (~80%).
+- Final exam (all three components combined) must score at least 80/100 points (80%).
 
 These requirements supplement the standard grade scale evaluation criteria. Failure to meet these requirements will result in a failing grade for the course, regardless of your final grade percentage.
 

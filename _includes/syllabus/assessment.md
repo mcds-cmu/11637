@@ -54,11 +54,12 @@ The final exam consists of three parts: the coding component, the write-up, and 
 
 ### Write-up Component on Canvas (40 points):
 
-    - A set of write-up questions is included at the end of the coding component notebook.
-    - Students should type their responses directly in the notebook and submit a PDF their work to Canvas for manual grading.
-    - Submissions can be made any number of times before the final exam deadline on Canvas, with the final grade based on the latest submission.
-    - A grace period of 12 hours is available on Canvas, but submissions in this period will incur a 20% grade penalty. Submissions after this grace period will not be accepted.
-    - It's important to note that the Sail() submissions will not be checked for the write-up; only submissions to Canvas will be considered for grading.
+    - Students must upload a PDF print of their latest final exam notebook to Canvas before starting; students will be able to access it during the write-up.
+    - Students will answer all 9 write-up questions directly in Canvas (they are not included in the handout notebook).
+    - Students must submit before the final exam period ends; late submissions are not accepted and will result in an automatic zero.
+    - Students get one attempt on Canvas with no time limit, but it must be completed in a single session—exiting the assignment or reaching the deadline will auto-submit it.
+    - The programming portion on Sail() allows unlimited submissions before the deadline.
+    - Write-up questions are graded exclusively on Canvas, and Sail() submissions will not be checked for write-up credit.
 
 ### Conceptual Component of Canvas Reading Content (30 points):
 
